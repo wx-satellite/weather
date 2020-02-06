@@ -1,4 +1,4 @@
-## Weather
+<h1 align="center">Weather</h1>
 基于 [高德开放平台](https://lbs.amap.com/dev/) php天气信息组件
 
 ## 安装
